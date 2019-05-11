@@ -1,0 +1,7 @@
+.textdata {
+    width: 60%;
+    margin: 0px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3 px #ccc;
+    text-align: center;
+}
